@@ -1,0 +1,142 @@
+[
+  {
+    "Id": 56,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Arthur Conan Doyle",
+    "Name": "asdfg",
+    "NumberOfPages": 0,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "1887-04-20T00:00:00"
+  },
+  {
+    "Id": 2,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Oda",
+    "Name": "One Peace",
+    "NumberOfPages": 0,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "2008-03-24T00:00:00"
+  },
+  {
+    "Id": 7101,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Lev Tolstoy",
+    "Name": "War and Pease",
+    "NumberOfPages": 780,
+    "NumberOfCopies": 2,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "1962-05-17T00:00:00"
+  },
+  {
+    "Id": 7102,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "O\u0027Henry",
+    "Name": "Novells",
+    "NumberOfPages": 360,
+    "NumberOfCopies": 2,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "1932-12-17T00:00:00"
+  },
+  {
+    "Id": 7103,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Arthur Heily",
+    "Name": "Hotel",
+    "NumberOfPages": 260,
+    "NumberOfCopies": 3,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "1999-11-17T00:00:00"
+  },
+  {
+    "Id": 1,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Marcel Proust",
+    "Name": "In Search of Lost Time",
+    "NumberOfPages": 525,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 3,
+    "DatePublished": "2009-05-17T00:00:00"
+  },
+  {
+    "Id": 2,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Miguel de Cervantes",
+    "Name": "Miguel de Cervantes",
+    "NumberOfPages": 400,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 2,
+    "DatePublished": "1605-03-02T00:00:00"
+  },
+  {
+    "Id": 3,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Gabriel Garcia Marquez",
+    "Name": "One Hundred Years of Solitude",
+    "NumberOfPages": 321,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 5,
+    "DatePublished": "2013-07-05T00:00:00"
+  },
+  {
+    "Id": 4,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Leo Tolstoy",
+    "Name": "War and Peace",
+    "NumberOfPages": 900,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 15,
+    "DatePublished": "1980-05-15T00:00:00"
+  },
+  {
+    "Id": 5,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Fyodor Dostoyevsky",
+    "Name": "Crime and Punishment",
+    "NumberOfPages": 276,
+    "NumberOfCopies": 0,
+    "NumberOfBorrowedOut": 6,
+    "DatePublished": "1993-05-17T00:00:00"
+  },
+  {
+    "Id": 987,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Mozes",
+    "Name": "Efshar Gam Bly Qavier",
+    "NumberOfPages": 321,
+    "NumberOfCopies": 10,
+    "NumberOfBorrowedOut": 7,
+    "DatePublished": "1947-02-01T00:00:00"
+  },
+  {
+    "Id": 964,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Ariel Naim",
+    "Name": "My First Book",
+    "NumberOfPages": 543,
+    "NumberOfCopies": 29,
+    "NumberOfBorrowedOut": 27,
+    "DatePublished": "2007-05-24T00:00:00"
+  },
+  {
+    "Id": 864,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Haim Mosh",
+    "Name": "Ein li Shem Amiti",
+    "NumberOfPages": 111,
+    "NumberOfCopies": 7,
+    "NumberOfBorrowedOut": 0,
+    "DatePublished": "1985-11-11T00:00:00"
+  },
+  {
+    "Id": 653,
+    "ISBN": "00000000-0000-0000-0000-000000000000",
+    "Author": "Gady Halper",
+    "Name": "My New Car",
+    "NumberOfPages": 444,
+    "NumberOfCopies": 17,
+    "NumberOfBorrowedOut": 13,
+    "DatePublished": "2021-10-21T00:00:00"
+  }
+]
