@@ -22,6 +22,17 @@ PrintFolderDetails(directoryInfo);
 
 static void PrintFolderDetails(DirectoryInfo directoryInfo)
 {
+    var files1 = directoryInfo.GetFiles().OrderByDescending(file => file.Length).Take(3).ToList();
+    foreach (var file in files1)
+    {
+        //Console.WriteLine("File name: " + file.Name);
+        //Console.WriteLine("Last Change date: " + file.LastWriteTime);
+        //Console.WriteLine();
+    }
+
+    // עשיתי את זה קודם בדרך הארוכה (למטה) ואז ראיתי פיתרון יותר קל במקום אחר אז ניסיתי לעשות
+    // גם אותו (למעלה), השארתי את שניהם כי כבר כתבתי חח
+
     var files = directoryInfo.GetFiles();
     int[] indexes = new int[3] { -1, -1, -1 };
     long max = 0;
